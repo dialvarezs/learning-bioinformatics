@@ -1,0 +1,4 @@
+[core]
+    remote = http
+['remote "http"']
+    url = https://catg-bioinf-msc-kv92wxkc.nyc3.digitaloceanspaces.com//learning-tn
