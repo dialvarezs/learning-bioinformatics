@@ -1,0 +1,5 @@
+outs:
+- md5: 0fcc1c22b89ee62d1d9d13f6f6875cec
+  size: 1623519571
+  hash: md5
+  path: subsampling_basecalled.ubam
