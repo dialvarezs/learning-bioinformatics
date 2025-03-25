@@ -1,0 +1,5 @@
+outs:
+- md5: 2e02018933c3bdd770768b5201c1772d
+  size: 367648405
+  hash: md5
+  path: PSAE-806.fastq.gz
