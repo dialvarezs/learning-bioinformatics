@@ -15,3 +15,6 @@ Luego del control de calidad, aplicar un muestreo de las lecturas utilizando [`F
 - 40x
 
 Para cada conjunto de datos,  realizar el ensamblaje de `novo` con [`Flye`](https://github.com/mikolmogorov/Flye) y un pulido con [`Medaka`](https://github.com/nanoporetech/medaka).
+
+### Actividad 3
+Realiza el control de calidad de los ensamblajes obtenidos con  [`CheckM2`](https://github.com/chklovski/CheckM2) y [`BUSCO`](https://busco.ezlab.org). Compara los valores de completitud y contaminación antes y después del pulido con Medaka. 
