@@ -26,6 +26,7 @@ Calcula la profundidad por posición reclutando las lecturas utilizadas para ens
 - Rasusa 40x
 - Filtlong 10x 
 - Filtlong 40x
+
 Para obtener la profundidad realiza un mapeo de las lecturas con [`Minimap2`](https://github.com/lh3/minimap2) y luego calcula la profundidad por posición con el comando [`samtools depth`](https://github.com/samtools/samtools). Posteriormente grafica la distribución de profundidad con algún lenguaje de programación como Python o R (1 gráfico por ensamblaje).
 
 
