@@ -1,0 +1,5 @@
+outs:
+- md5: 99608a8f600fe252048882fa6952a881
+  size: 709510678
+  hash: md5
+  path: SS2R2_COI.fastq.gz

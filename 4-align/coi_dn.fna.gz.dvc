@@ -1,0 +1,5 @@
+outs:
+- md5: cbe074cb7a77e0d184506d03f0f5dde2
+  size: 280840291
+  hash: md5
+  path: coi_dn.fna.gz

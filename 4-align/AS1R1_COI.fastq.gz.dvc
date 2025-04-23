@@ -1,0 +1,5 @@
+outs:
+- md5: 351a2a7cb27ec0c61a456bdbc744bab7
+  size: 537279100
+  hash: md5
+  path: AS1R1_COI.fastq.gz
